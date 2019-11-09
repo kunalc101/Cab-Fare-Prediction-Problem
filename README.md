@@ -1,4 +1,4 @@
-# Cab-Fare-Prediction-Problem
+# Cab Fare Prediction Problem
 
 ## Problem Statement
 
